@@ -3,3 +3,8 @@ public class helloWorld {
 		System.out.print("helloWorld");
 	}
 }
+
+public class A {
+
+
+}
